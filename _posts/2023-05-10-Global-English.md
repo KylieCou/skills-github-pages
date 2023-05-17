@@ -40,6 +40,7 @@ Do they look familiar? I know we are slowly adding more and more rules to aid in
 * Translators (both human and machine) who work hard to make content accessible
 * People who are functionally illiterate[^1]
 
+# Discussion
 Because I have not heard this style guide or concept referenced in a long time - I want to discuss it! Have you heard of it before - possibly under a different name? Tell me all about your thoughts on it in the comments below!
 
 [^1]: The USA had an illiteracy rate of 54% in 2020, according to this Gallup Poll (https://lnkd.in/g6TYDVWD).
