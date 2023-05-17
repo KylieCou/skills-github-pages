@@ -1,6 +1,6 @@
 ---
 title: "A Style to Rule Them All: Global English"
-date: 2023-05-17
+date: 2023-05-10
 ---
 
 The four sets of guidelines or styles are commonly considered when a writer is instructed to write clear and accessible text: Plain Language, Simplified English, localizable content, and Global English. In the sections below, I'll spell out some key differences.
